@@ -18,7 +18,7 @@ body h2 {
 }
 
 header {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/bg1.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://res.cloudinary.com/dkak37mek/image/upload/v1629659617/bg1_uclbwu.jpg);
   height: 100vh;
   -webkit-background-size: cover;
   background-size: cover;
