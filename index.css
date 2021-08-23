@@ -18,7 +18,7 @@ body h2 {
 }
 
 header {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url(/images/payment.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url(https://res.cloudinary.com/dkak37mek/image/upload/v1629660915/payment_w2rvho.jpg);
   height: 100vh;
   -webkit-background-size: cover;
   background-size: cover;
