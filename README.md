@@ -14,4 +14,4 @@ Welcome to RM Foundation , we at RM Foundation is aiming to help poor people of 
                 ![image2](https://github.com/RUDRAMADHABA/RM-Foundation/blob/main/images/RM%20FOUNDATION%20-%20Google%20Chrome%2001-12-2021%2018_13_26%20(2).png)
                 <img align="right" width="400px" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <br>
-Developed with ❤️ in 2021.
+<h3>Developed with ❤️ in 2021.</h3>
