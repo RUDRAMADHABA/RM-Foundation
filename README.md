@@ -13,4 +13,4 @@ Welcome to RM Foundation , we at RM Foundation is aiming to help poor people of 
                 <p align="left"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
                 <img align="right" width="400px" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <br>
-Developed with ❤️ by me in 2021.
+Developed with ❤️ in 2021.
