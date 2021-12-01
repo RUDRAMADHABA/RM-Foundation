@@ -9,6 +9,7 @@
 Welcome to RM FOUNDATION , we at RM Foundation is aiming to help poor people of our neighbourhood 
                 and old people who are left homeless by their chindren by providing them basic resources like food,
                 clothes and medicines for this we have started our own funding where you can join us by paying just ₹ 10.
-                / week or ₹ 50 /month
+                / week or ₹ 50 /month.
+                <p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 
 Developed with ❤️ by me in 2021.
