@@ -1,2 +1,2 @@
-# Payment-Integration-Website
+# RM Foundation ( Payment Integration Website)
 Developed with ❤️ by me in 2021.
